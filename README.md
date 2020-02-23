@@ -2,8 +2,7 @@
 
 ## Assignment 1
 Colab File: https://colab.research.google.com/drive/1OdQte-xd2wRt2-cj3MeBn0DmZeEMCZ8x?authuser=1 
-Google Drive: [here](https://drive.google.com/drive/folders/1GKfVQLwf7UelCwjOR9u8nR_FHFXHHAWv?usp=sharing)
-
+Dataset: [Positive Review](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_positive_reviews.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_negative_reviews.csv)
 ### Steps
 - Import all needed libraries
 - Load dataset files
