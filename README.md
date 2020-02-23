@@ -2,6 +2,7 @@
 
 ## Assignment 1
 Colab File: https://colab.research.google.com/drive/1OdQte-xd2wRt2-cj3MeBn0DmZeEMCZ8x?authuser=1
+Google Drive: [here](https://drive.google.com/drive/folders/1GKfVQLwf7UelCwjOR9u8nR_FHFXHHAWv?usp=sharing)
 ### Steps
 - Import all needed libraries
 - Load dataset files
