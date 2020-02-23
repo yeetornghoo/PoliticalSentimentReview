@@ -3,7 +3,7 @@
 ## Assignment 1
 This assignment is to create our own Lexicon Sentiment files by simply extract the adjectve words from classified positive review and negative reviews source files. Both Spacy and NTLK to extract adjectives are used.
 
-### Sources
+#### Sources
 - Colab File: https://colab.research.google.com/drive/1OdQte-xd2wRt2-cj3MeBn0DmZeEMCZ8x?authuser=1 
 - Dataset: [Positive Review](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_positive_reviews.csv), [Negative Reviews](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_negative_reviews.csv)
 #### Steps
