@@ -37,7 +37,7 @@ This assignment is to use the Lexicon Sentiment file generated from Assignment 1
 - Negative Accurary: 68.52%
 
 ## Assignment 3
-Description
+Assignment 3 is to use BOW and TD-IDF technique to create the features of the document, and use machine learning technique to do document classification
 #### Sources
 - Colab File - https://drive.google.com/file/d/1FTvg1gb84XRff6T1bdtwNAO8irbVKIJH/view?usp=sharing
 - Positive Review - https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_positive_reviews.csv
