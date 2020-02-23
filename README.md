@@ -10,9 +10,9 @@ Colab File: https://colab.research.google.com/drive/1OdQte-xd2wRt2-cj3MeBn0DmZeE
 	- Lemmatization and Remove Stop words
 	- Extract Adjective word by using both SPACY and NTLK
 - Generate Lexicon File
-	- Positive File: lexicon_political_positive.csv https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv
-	- Negatice File: lexicon_political_negative.csv https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv
-	- Combined: lexicon_political_master.csv https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_master.csv
+	- Positive File: [lexicon_political_positive.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv)
+	- Negatice File: [lexicon_political_negative.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv)
+	- Combined: [lexicon_political_master.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_master.csv)
 
 ## Assignment 2
 
