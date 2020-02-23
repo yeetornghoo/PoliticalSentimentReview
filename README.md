@@ -1,7 +1,7 @@
 # Topic: Political Review
 
 ## Assignment 1
-This assignment is to create our own Lexicon Sentiment files by simply extract the adjectve words from classified positive review and negative reviews source files. Both Spacy and NTLK to extract adjectives are used. For certain adjective words appear in both positive and negative review files will be flagged as "0". 
+This assignment is to create our own Lexicon Sentiment files by simply extract the adjectve words from classified positive review and negative reviews source files. Both Spacy and NTLK to extract adjectives are used. For certain adjective words appear in both positive and negative review files will be flagged as "0". [See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NDA3ODYwODEyMTBa/details)
 
 #### Sources
 - Colab File: https://colab.research.google.com/drive/1OdQte-xd2wRt2-cj3MeBn0DmZeEMCZ8x
@@ -20,7 +20,7 @@ Generate Lexicon File
 - Combined: [lexicon_political_master.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_master.csv)
 
 ## Assignment 2
-This assignment is to use the Lexicon Sentiment file generated from Assignment 1 and assess the review of the dataset files
+This assignment is to use the Lexicon Sentiment file generated from Assignment 1 and assess the review of the dataset files. [See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NDA3ODYwODEyNjFa/details)
 
 #### Sources
 - Colab File: https://colab.research.google.com/drive/1C6hEaZJ9GKdmK-GvTmAk8QsUOCfDASgb
@@ -37,7 +37,7 @@ This assignment is to use the Lexicon Sentiment file generated from Assignment 1
 - Negative Accurary: 68.52%
 
 ## Assignment 3
-Assignment 3 is to use BOW and TD-IDF technique to create the features of the document, and use machine learning technique to do document classification
+Assignment 3 is to use BOW and TD-IDF technique to create the features of the document, and use machine learning technique to do document classification. [See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NDA3OTk0ODQ1Mjha/details)
 #### Sources
 - Colab File - https://drive.google.com/file/d/1FTvg1gb84XRff6T1bdtwNAO8irbVKIJH/view?usp=sharing
 - Positive Review - https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_positive_reviews.csv
@@ -55,3 +55,4 @@ Assignment 3 is to use BOW and TD-IDF technique to create the features of the do
 - ZZZ
 
 ## Individual Assignment
+[See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NTEyMTA1ODAyNTRa/details)
