@@ -1,7 +1,18 @@
 # Topic: Political Review
 
-
 ## Assignment 1
+Colab File: https://colab.research.google.com/drive/1OdQte-xd2wRt2-cj3MeBn0DmZeEMCZ8x?authuser=1
+Steps
+- Import all needed libraries
+- Load dataset files
+- Text Processing
+	- Extract word and make it lower case
+	- Lemmatization and Remove Stop words
+	- Extract Adjective word by using both SPACY and NTLK
+- Generate Lexicon File
+	- Positive File: lexicon_political_positive.csv
+	- Negatice File: lexicon_political_negative.csv
+	- Combined: lexicon_political_master.csv
 
 ## Assignment 2
 
