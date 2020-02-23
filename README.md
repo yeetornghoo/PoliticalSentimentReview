@@ -32,7 +32,9 @@ This assignment is to use the Lexicon Sentiment file generated from Assignment 1
 - Load the [Positive Review](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_positive_reviews.csv) and compare to the master lexicon file
 - Load the [Negative Reviews](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_negative_reviews.csv)
 - Verify the accurary for each
-
+#### output
+- Positive Accurary: 71.74%
+- Negative Accurary: 68.52%
 ## Assignment 3
 
 ## Individual Assignment
