@@ -13,7 +13,7 @@ This assignment is to create our own Lexicon Sentiment files by simply extract t
 	- Extract word and make it lower case
 	- Lemmatization and Remove Stop words
 	- Extract Adjective word by using both SPACY and NTLK
-#### output
+#### Output
 Generate Lexicon File
 - Positive File: [lexicon_political_positive.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv)
 - Negatice File: [lexicon_political_negative.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv)
@@ -32,9 +32,17 @@ This assignment is to use the Lexicon Sentiment file generated from Assignment 1
 - Load the [Positive Review](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_positive_reviews.csv) and compare to the master lexicon file
 - Load the [Negative Reviews](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_negative_reviews.csv)
 - Verify the accurary for each
-#### output
+#### Output
 - Positive Accurary: 71.74%
 - Negative Accurary: 68.52%
+
 ## Assignment 3
+Description
+#### Sources
+- XXX
+#### Steps
+- YYY
+#### Output
+- ZZZ
 
 ## Individual Assignment
