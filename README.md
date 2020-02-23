@@ -39,9 +39,18 @@ This assignment is to use the Lexicon Sentiment file generated from Assignment 1
 ## Assignment 3
 Description
 #### Sources
-- XXX
+- Colab File - https://drive.google.com/file/d/1FTvg1gb84XRff6T1bdtwNAO8irbVKIJH/view?usp=sharing
+- Positive Review - https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_positive_reviews.csv
+- Negative Review - https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_negative_reviews.csv
 #### Steps
-- YYY
+- Load Positive and Negative Reviews files
+- Combine both files and assign class label (0: Negative and 1: Positive)
+- BOW
+	- Convert Training Data and test Data to BOW
+	- Run several machine Learning to compare the performance
+- TF-IDF
+	- Convert Training Data and test Data to TF-IDF
+	- Run several machine Learning to compare the performance	
 #### Output
 - ZZZ
 
