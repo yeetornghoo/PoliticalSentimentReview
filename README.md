@@ -20,6 +20,7 @@ Generate Lexicon Files
 | Positive File | [lexicon_political_positive.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_positive.csv) | 155 |
 | Negative File | [lexicon_political_negative.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv) | 163 |
 | Combined File | [lexicon_political_master.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_master.csv) | 277 |
+
 <br/><br/>
 ## Assignment 2
 This assignment is to use the Lexicon Sentiment file generated from Assignment 1 and assess the review of the dataset files. [See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NDA3ODYwODEyNjFa/details)
@@ -37,11 +38,11 @@ This assignment is to use the Lexicon Sentiment file generated from Assignment 1
 #### Output
 - Positive Accurary: 71.74%
 - Negative Accurary: 68.52%
-| Type | Accuracy | 
-| ------------- | ------------- |
-| Positive Accuracy | 71.74% |
-| Negative Accuracy | 68.52% |
 
+| Type | Total Review | Classified as +ve | Classified as -ve | Classified as Neutral | Accuracy | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Positive | 46 | 38 | 0 | 8 | 82.61% |
+| Negative | 54 | 2 | 39 | 13 | 72.22% |
 
 <br/><br/>
 ## Assignment 3
