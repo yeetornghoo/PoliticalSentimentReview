@@ -14,10 +14,13 @@ This assignment is to create our own Lexicon Sentiment files by simply extract t
 	- Lemmatization and Remove Stop words
 	- Extract Adjective word by using both SPACY and NTLK
 #### Output
-Generate Lexicon File
-- Positive File: [lexicon_political_positive.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv)
-- Negatice File: [lexicon_political_negative.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv)
-- Combined: [lexicon_political_master.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_master.csv)
+Generate Lexicon Files
+
+| File  | Link | Total Words |
+| ------------- | ------------- | ------------- |
+| Positive File | [lexicon_political_positive.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv) | 155 |
+| Negative File | [lexicon_political_negative.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv) | 163 |
+| Combined File | [lexicon_political_master.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_master.csv) | 277 |
 
 ## Assignment 2
 This assignment is to use the Lexicon Sentiment file generated from Assignment 1 and assess the review of the dataset files. [See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NDA3ODYwODEyNjFa/details)
