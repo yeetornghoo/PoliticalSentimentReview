@@ -36,8 +36,6 @@ This assignment is to use the Lexicon Sentiment file generated from Assignment 1
 - Load the [Negative Reviews](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_negative_reviews.csv)
 - Verify the accurary for each
 #### Output
-- Positive Accurary: 71.74%
-- Negative Accurary: 68.52%
 
 | Type | Total Review | Classified as +ve | Classified as -ve | Classified as Neutral | Accuracy | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
