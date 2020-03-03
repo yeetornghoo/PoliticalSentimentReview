@@ -18,7 +18,7 @@ Generate Lexicon Files
 
 | File  | Link | Total Words |
 | ------------- | ------------- | ------------- |
-| Positive File | [lexicon_political_positive.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv) | 155 |
+| Positive File | [lexicon_political_positive.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_positive.csv) | 155 |
 | Negative File | [lexicon_political_negative.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_negative.csv) | 163 |
 | Combined File | [lexicon_political_master.csv](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/lexicon_sentiment/lexicon_political_master.csv) | 277 |
 
