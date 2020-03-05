@@ -58,7 +58,44 @@ Assignment 3 is to use BOW and TD-IDF technique to create the features of the do
 	- Convert Training Data and test Data to TF-IDF
 	- Run several machine Learning to compare the performance	
 #### Output
-- ZZZ
+
+#### BOW
+
+| Classifier | Accuracy | F1 | Precision | Recall | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Gradient Boosting | 50.00% | 45.00% | 72.00% | 58.00% |
+| Random Forest | 40.00% | 29.00% | 20.00% | 50.00% |
+| Multinomial NB | 60.00% | 58.00% | 75.00% | 67.00% |
+| ANN | 70.00% | 70.00% | 79.00% | 75.00% |
+| SVN | 40.00% | 29.00% | 20.00% | 50.00% |
+| Linear | 70.00% | 70.00% | 79.00% | 75.00% |
+| Logistic Regression | 60.00% | 58.00% | 75.00% | 67.00% |
+
+#### TF-IDF
+
+| Classifier | Accuracy | F1 | Precision | Recall | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Gradient Boosting | 50.00% | 49.00% | 55.00% | 54.00% |
+| Random Forest | 40.00% | 29.00% | 20.00% | 50.00% |
+| Multinomial NB | 50.00% | 45.00% | 72.00% | 58.00% |
+| ANN | 70.00% | 70.00% | 79.00% | 75.00% |
+| SVN | 40.00% | 29.00% | 20.00% | 50.00% |
+| Linear | 70.00% | 70.00% | 79.00% | 75.00% |
+| Logistic Regression | 50.00% | 45.00% | 72.00% | 58.00% |
+
+#### DOC2VEC
+
+| Classifier | Accuracy | F1 | Precision | Recall | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Gradient Boosting | 40.00% | 38.00% | 44.00% | 46.00% |
+| Random Forest | 50.00% | 45.00% | 72.00% | 58.00% |
+| Gaussian NB | 50.00% | 49.00% | 50.00% | 50.00% |
+| ANN | 40.00% | 29.00% | 20.00% | 50.00% |
+| SVN | 40.00% | 29.00% | 20.00% | 50.00% |
+| Linear | 40.00% | 29.00% | 20.00% | 50.00% |
+| Logistic Regression | 40.00% | 29.00% | 20.00% | 50.00% |
+
+Result: ANN and Linear for BOW and TD-IDF
 
 ## Individual Assignment
 [See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NTEyMTA1ODAyNTRa/details)
