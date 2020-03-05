@@ -99,3 +99,8 @@ Result: ANN and Linear for BOW and TD-IDF
 
 ## Individual Assignment
 [See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NTEyMTA1ODAyNTRa/details)
+
+# Topic: Restaurant Review
+- Assignment 1 - https://drive.google.com/file/d/1zdQIIscxAcrWnnJjO_w8l24dbLE_U_B1/view?usp=sharing
+- Assignment 2 - https://drive.google.com/file/d/1i6l8TIAhlEFe8ZEJab-KSI7_TRLm_mVh/view?usp=sharing
+- Assignment 3 - https://drive.google.com/file/d/1GJfZgYEYp0PddpRimsL0uryw-SwK61ji/view?usp=sharing
