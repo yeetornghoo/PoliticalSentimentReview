@@ -57,9 +57,12 @@ Assignment 3 is to use BOW and TD-IDF technique to create the features of the do
 - TF-IDF
 	- Convert Training Data and test Data to TF-IDF
 	- Run several machine Learning to compare the performance	
+- Doc2Vec
+	- Convert Training Data and test Data to DOC2VEC
+	- Run several machine Learning to compare the performance	
 #### Output
 
-#### BOW
+###### BOW
 
 | Classifier | Accuracy | F1 | Precision | Recall | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -71,7 +74,7 @@ Assignment 3 is to use BOW and TD-IDF technique to create the features of the do
 | Linear | 70.00% | 70.00% | 79.00% | 75.00% |
 | Logistic Regression | 60.00% | 58.00% | 75.00% | 67.00% |
 
-#### TF-IDF
+###### TF-IDF
 
 | Classifier | Accuracy | F1 | Precision | Recall | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -83,7 +86,7 @@ Assignment 3 is to use BOW and TD-IDF technique to create the features of the do
 | Linear | 70.00% | 70.00% | 79.00% | 75.00% |
 | Logistic Regression | 50.00% | 45.00% | 72.00% | 58.00% |
 
-#### DOC2VEC
+###### DOC2VEC
 
 | Classifier | Accuracy | F1 | Precision | Recall | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
