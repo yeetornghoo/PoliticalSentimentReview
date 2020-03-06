@@ -90,13 +90,13 @@ Assignment 3 is to use BOW and TD-IDF technique to create the features of the do
 
 | Classifier | Accuracy | F1 | Precision | Recall | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Gradient Boosting | 40.00% | 38.00% | 44.00% | 46.00% |
+| Gradient Boosting | 30.00% | 29.00% | 30.00% | 29.00% |
 | Random Forest | 50.00% | 45.00% | 72.00% | 58.00% |
-| Gaussian NB | 50.00% | 49.00% | 50.00% | 50.00% |
-| ANN | 40.00% | 29.00% | 20.00% | 50.00% |
+| Gaussian NB | 50.00% | 45.00% | 45.00% | 46.00% |
+| ANN | 30.00% | 29.00% | 31.00% | 33.00% |
 | SVN | 40.00% | 29.00% | 20.00% | 50.00% |
-| Linear | 40.00% | 29.00% | 20.00% | 50.00% |
-| Logistic Regression | 40.00% | 29.00% | 20.00% | 50.00% |
+| Linear | 30.00% | 29.00% | 31.00% | 33.00% |
+| Logistic Regression | 20.00% | 17.00% | 12.00% | 25.00% |
 
 Result: ANN and Linear for BOW and TD-IDF
 
