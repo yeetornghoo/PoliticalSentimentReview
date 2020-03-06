@@ -57,9 +57,12 @@ Assignment 3 is to use BOW and TD-IDF technique to create the features of the do
 - TF-IDF
 	- Convert Training Data and test Data to TF-IDF
 	- Run several machine Learning to compare the performance	
+- Doc2Vec
+	- Convert Training Data and test Data to DOC2VEC
+	- Run several machine Learning to compare the performance	
 #### Output
 
-#### BOW
+###### BOW
 
 | Classifier | Accuracy | F1 | Precision | Recall | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -71,7 +74,7 @@ Assignment 3 is to use BOW and TD-IDF technique to create the features of the do
 | Linear | 70.00% | 70.00% | 79.00% | 75.00% |
 | Logistic Regression | 60.00% | 58.00% | 75.00% | 67.00% |
 
-#### TF-IDF
+###### TF-IDF
 
 | Classifier | Accuracy | F1 | Precision | Recall | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -83,19 +86,24 @@ Assignment 3 is to use BOW and TD-IDF technique to create the features of the do
 | Linear | 70.00% | 70.00% | 79.00% | 75.00% |
 | Logistic Regression | 50.00% | 45.00% | 72.00% | 58.00% |
 
-#### DOC2VEC
+###### DOC2VEC
 
 | Classifier | Accuracy | F1 | Precision | Recall | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Gradient Boosting | 40.00% | 38.00% | 44.00% | 46.00% |
+| Gradient Boosting | 30.00% | 29.00% | 30.00% | 29.00% |
 | Random Forest | 50.00% | 45.00% | 72.00% | 58.00% |
-| Gaussian NB | 50.00% | 49.00% | 50.00% | 50.00% |
-| ANN | 40.00% | 29.00% | 20.00% | 50.00% |
+| Gaussian NB | 50.00% | 45.00% | 45.00% | 46.00% |
+| ANN | 30.00% | 29.00% | 31.00% | 33.00% |
 | SVN | 40.00% | 29.00% | 20.00% | 50.00% |
-| Linear | 40.00% | 29.00% | 20.00% | 50.00% |
-| Logistic Regression | 40.00% | 29.00% | 20.00% | 50.00% |
+| Linear | 30.00% | 29.00% | 31.00% | 33.00% |
+| Logistic Regression | 20.00% | 17.00% | 12.00% | 25.00% |
 
 Result: ANN and Linear for BOW and TD-IDF
 
 ## Individual Assignment
 [See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NTEyMTA1ODAyNTRa/details)
+
+# Topic: Restaurant Review
+- Assignment 1 - https://drive.google.com/file/d/1zdQIIscxAcrWnnJjO_w8l24dbLE_U_B1/view?usp=sharing
+- Assignment 2 - https://drive.google.com/file/d/1i6l8TIAhlEFe8ZEJab-KSI7_TRLm_mVh/view?usp=sharing
+- Assignment 3 - https://drive.google.com/file/d/1GJfZgYEYp0PddpRimsL0uryw-SwK61ji/view?usp=sharing
