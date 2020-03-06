@@ -46,7 +46,7 @@ This assignment is to use the Lexicon Sentiment file generated from Assignment 1
 ## Assignment 3
 Assignment 3 is to use BOW and TD-IDF technique to create the features of the document, and use machine learning technique to do document classification. [See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NDA3OTk0ODQ1Mjha/details)
 #### Sources
-- Colab File - https://drive.google.com/file/d/1FTvg1gb84XRff6T1bdtwNAO8irbVKIJH/view?usp=sharing
+- Colab File - https://colab.research.google.com/drive/1p37xim6mtTFf6FQPWinHqNjNFSkhjw3a
 - Dataset: [Positive Review](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_positive_reviews.csv), [Negative Review](https://github.com/yeetornghoo/UD_PoliticalReview/blob/master/dataset/politic_issues_negative_reviews.csv)
 #### Steps
 - Load Positive and Negative Reviews files
