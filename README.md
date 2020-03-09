@@ -101,7 +101,13 @@ Assignment 3 is to use BOW and TD-IDF technique to create the features of the do
 Result: ANN and Linear for BOW and TD-IDF
 
 ## Individual Assignment
-[See More](https://classroom.google.com/u/1/c/MjcxMjM5ODc3OTZa/a/NTEyMTA1ODAyNTRa/details)
+Following are the best performance results from Machine Learning based (BOW or TD-IDF) and Lexicon based. Where the ML based best performance is 70%, however the Lexicon based get 82.61% to predict Positive and 72.22% to predict negative (Average 77.415%)
+
+
+| Approach | Feature | Classifier | Accuracy | F1 | Precision | Recall | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Machine Learning | BOW / TD-IDF | Linear | 70.00% | 70.00% | 79.00% | 75.00% |
+| Lexicon Based | - | - | 77.415% | - | 82.61% | 72.22% |
 
 # Topic: Restaurant Review
 - Assignment 1 - https://drive.google.com/file/d/1zdQIIscxAcrWnnJjO_w8l24dbLE_U_B1/view?usp=sharing
