@@ -102,6 +102,7 @@ Result: ANN and Linear for BOW and TD-IDF
 
 ## Individual Assignment
 - Colab File - https://colab.research.google.com/drive/1cyO8V4_lYQdoP9sPCP3Ak0TZLaMYOP-m
+
 Following are the best performance results from Machine Learning based (BOW or TD-IDF) and Lexicon based. Where the ML based best performance is 70%, however the Lexicon based get 82.61% to predict Positive and 72.22% to predict negative (Average 77.415%)
 
 
