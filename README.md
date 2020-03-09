@@ -112,6 +112,7 @@ Following are the best performance results from Machine Learning based (BOW or T
 | Lexicon Based | - | - | 77.415% | - | 82.61% | 72.22% |
 
 # Topic: Restaurant Review
-- Assignment 1 - https://drive.google.com/file/d/1zdQIIscxAcrWnnJjO_w8l24dbLE_U_B1/view?usp=sharing
-- Assignment 2 - https://drive.google.com/file/d/1i6l8TIAhlEFe8ZEJab-KSI7_TRLm_mVh/view?usp=sharing
-- Assignment 3 - https://drive.google.com/file/d/1GJfZgYEYp0PddpRimsL0uryw-SwK61ji/view?usp=sharing
+- Assignment 1 - https://colab.research.google.com/drive/1t5Wr5Oj0UNii3Vabm99SQu9wLX8LbJgD
+- Assignment 2 - https://colab.research.google.com/drive/1lcj5jJxzDX2726QgjgYaKe7QfRDWyDPf
+- Assignment 3 - https://colab.research.google.com/drive/1Af_oNhHVM3mbsXWjL0_RKICtd5qFT5Xv
+- Individual Assignment - https://colab.research.google.com/drive/1y1GHwrAbVo-K6y1C-RbjYxFRvfM6uoNr
