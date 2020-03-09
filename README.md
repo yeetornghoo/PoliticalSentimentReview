@@ -113,6 +113,8 @@ Following are the best performance results from Machine Learning based (BOW or T
 
 # Topic: Restaurant Review
 - Google Drive Folder - https://drive.google.com/open?id=1oYK-f2Y9n5xVF2UgpM1XqkoJM39MbG-W
+- Review Files - https://drive.google.com/open?id=1etI4hQHrmrKsLcjB932VRfw5gnpLHUvW
+- Generated Lexicon Corpse - https://drive.google.com/open?id=1n709oxi-mYMBU2Kju0HvKU0nCWWNFyN-
 - Assignment 1 - https://colab.research.google.com/drive/1t5Wr5Oj0UNii3Vabm99SQu9wLX8LbJgD
 - Assignment 2 - https://colab.research.google.com/drive/1lcj5jJxzDX2726QgjgYaKe7QfRDWyDPf
 - Assignment 3 - https://colab.research.google.com/drive/1Af_oNhHVM3mbsXWjL0_RKICtd5qFT5Xv
